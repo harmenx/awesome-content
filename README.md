@@ -58,6 +58,7 @@ Tools for creating and editing video, audio, and graphics, and for planning, aut
 - [VidIQ](https://vidiq.com) - YouTube SEO & analytics.
 - [Google Analytics](https://marketingplatform.google.com/about/analytics) - Track audience behavior and traffic.
 - [Hotjar](https://www.hotjar.com) - Heatmaps & user behavior insights.
+- [TKMetrics TikTok Money Calculator](https://tkmetrics.com/tiktok-money-calculator/) - Estimates monthly TikTok Creator Rewards and a sponsored-video rate from a username or your own numbers.
 
 ## AI-Powered Tools
 
