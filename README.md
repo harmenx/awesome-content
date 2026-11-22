@@ -19,6 +19,7 @@ Tools for creating and editing video, audio, and graphics, and for planning, aut
 - [Final Cut Pro](https://www.apple.com/final-cut-pro) - Mac-based professional video editor.
 - [Runway](https://runway.com) - AI-powered video editing and effects.
 - [Descript](https://www.descript.com) - Audio & video editor with AI transcription.
+- [Live Face Swap](https://live-face-swap.net/) - Applies a reference look to a live webcam video and lets creators record and download the resulting clip.
 
 ## Audio & Music
 
